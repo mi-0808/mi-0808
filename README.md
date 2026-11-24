@@ -1,6 +1,6 @@
 # Minato Matsui (mi-0808) / 松井 湊
 
-Student at N High School. Founder of NEOWRITE. Intern at Ohmi Inc. (MyHood).
+Student at N High School. Founder of NEOWRITE. Intern at aoumi Inc.
 I design and build products end to end — from planning and design to release and operation — to solve social problems with IT.
 
 N高等学校3年。NEOWRITE 代表。青海株式会社でインターン中。
