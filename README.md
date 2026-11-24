@@ -8,7 +8,7 @@ N高等学校3年。NEOWRITE 代表。青海株式会社でインターン中。
 
 ## Projects / プロジェクト
 
-- **GOEN** — A platform for local events and reviews / 地域のイベントとクチコミのプラットフォーム
+- [GOEN](https://github.com/mi-0808/goen) — A platform for local events and reviews / 地域のイベントとクチコミのプラットフォーム
 - [Cleanboss](https://github.com/mi-0808/cleanboss) — Entry/exit management for cleanrooms, built from an AI gear-detection system / クリーン番長：AI 装備検知から発展したクリーンルーム入退室管理ツール
 - [Specify](https://github.com/mi-0808/specify-web) — Furniture search tool for your room / 部屋の家具検索ツール
 - [MemoKashi](https://github.com/mi-0808/memokashi) — Lyrics memo app / 歌詞メモアプリ
